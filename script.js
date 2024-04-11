@@ -36,7 +36,7 @@ function handSymbol(symbol){
             }
             break;
         case '+':
-        case '−':
+        case '-':
         case '×':
         case '÷':
             handleMath(symbol);
